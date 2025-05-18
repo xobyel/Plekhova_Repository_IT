@@ -9,3 +9,26 @@ header img {
     height: 80px;
     margin-top: 10px;
 }
+
+nav {
+    background-color: #34495e;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
